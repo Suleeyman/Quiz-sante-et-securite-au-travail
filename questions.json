@@ -1,0 +1,422 @@
+[
+  {
+    "question": "Les agents de l'inspection du travail...",
+    "choix": [
+      "ne peuvent circuler dans l'entreprise qu'accompagnés de l'employeur ou de son représentant",
+      "peuvent être accompagnés par un représentant du personnel pendant leur contrôle",
+      "peuvent pénêtrer librement dans tout lieu de travail même s'il s'agit de locaux habités (domicile privé)",
+      "doivent obligatoirement informer l'employeur de leur présence dans l'entreprise"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Les agents de l'inspection du travail...",
+    "choix": [
+      "peuvent augmenter la fréquence des vérifications périodiques imposées par la réglementation pour certains équipements de travail (équipement de levage,...) si leur conditions d'utilisation ou de stockage le justifient (environnement corrosif,...)",
+      "peuvent dans tous les cas, relever directement procès-verbal des infractions constatées pour tout manquement de l'employeur auw règles d'hygiène et de sécurité",
+      "ont l'obligation de relever par procès-verbal les infractions qu'ils constatent aux règles d'hygiène et de sécurité",
+      "disposent d'un droit de saisie et de confiscation des équiepements de travail non conformes"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Le document unique d'évaluation des risques professionnels",
+    "choix": [
+      "doit être mis à jour tous les 5 ans",
+      "n'est obligatoire que dans les entreprises occupant au moins 25 salariés",
+      "doit être rédigé par le service de prévention et de santé au travail auquel adhère l'entreprise",
+      "repose sur la définition d'unité de travail"
+    ],
+    "reponse": 4
+  },
+  {
+    "question": "La responsabilité pénale",
+    "choix": [
+      "de l'employeur peut être engagée en cas de manquement aux règles de sécurité indépendamment de la survenance d'un accident du travail",
+      "d'une entreprise, en tant que personne morale, ne peut pas être engagée pour des infractions aux règles de sécurité imposées par le code du travail",
+      "de l'employeur est engagée même en cas de délégation de pouvoir régulièrement consentie par l'intéressé à l'un de ses collaborateurs",
+      "de l'employeur, personne physique, peut être engagée uniquement s'il est personnellement responsable d'un accident du travail"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Selon la jurisprudence actuelle, l'obligation de sécurité pesant sur l'employeur s'analyse comme :",
+    "choix": [
+      "une obligation de faire",
+      "une obligation de moyen atténuée",
+      "une obligation de résultat",
+      "une obligation de moyen renforcée"
+    ],
+    "reponse": 4
+  },
+  {
+    "question": "Le médecin du travail",
+    "choix": [
+      "peut réaliser ou faire réaliser, aux frais de l'employeur, des prélèvements et des mesures pour analyse",
+      "ne peut se rendre sur les lieux de travail des salariés dont il assure le suivi médical sauf si l'employeur l'autorise",
+      "peut notifier à l'employeur une mise en demeure de se conformer à la réglementation en matière de sécurité s'il constate des manquements en la matière",
+      "peut assister à tout les réunions du CSE"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Le risque",
+    "choix": [
+      "est la probabilité, pour un salarié exposé à une situation dangereuse, de subir les effets nocifs pour sa santé",
+      "et le danger sont des termes ayant la même définition",
+      "n'implique par nécessairement l'existence d'un danger",
+      "est la propriété intrinsèque d'un produit, d'un équipement ou d'une situation susceptible de causer un dommage à l'intégrité mentale ou physique du salarié"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Concernant les heures de délégation dont disposent les représentants du personnel au CSE",
+    "choix": [
+      "Le nombre d'heures de délégation varie selon l'activité de l'entreprise (activité à risque ou non)",
+      "Le nombre d'heures de délégation est le même quelle que soit la taille de l'entreprise",
+      "elles ne peuvent pas être utilisées par un suppléant",
+      "elles peuvent être mutualisées entre les membres du CSE"
+    ],
+    "reponse": 4
+  },
+  {
+    "question": "Dans le cadre d'une obligation de résultat, le débiteur s'engage",
+    "choix": [
+      "à atteindre le résultat prévu au contrat",
+      "à mettre en oeuvre les moyens nécessaire à l'atteinte du résultat espéré",
+      "à former ses salariés au risque professionnel",
+      "à atteindre un résultat dans la moyenne des résultats obtenus"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Les agents de prévention des CARSAT",
+    "choix": [
+      "sont en charge du suivi médical des salariés",
+      "peuvent prononcer des amendes administratives en cas de manquements de l'employeur aux règles de sécurité",
+      "peuvent majorer les cotisations « accident du travail / maladie professionnelle » d'une entreprise qui n'a pas mis en oeuvre les mesures de prévention imposées par voie d'injonction",
+      "peuvent participer à toutes les réunions du CSE"
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Les agents de prévention des CARSAT",
+    "choix": [
+      "peuvent accorder des aides financières aux entreprises de moins de 200 salariés souhaitant réaliser des projets visant à améliorer les conditions de santé et de sécurité au travail",
+      "sont fonctionnaires et rattachés au Ministère du travail",
+      "peuvent relever des infractions aux règles de sécurité par procès-verbal",
+      "peuvent notifier des arrêts de travaux temporaire"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Les principes généraux de prévention imposent",
+    "choix": [
+      "de prioriser la protection individuelle à la protection collective",
+      "d'adapter l'Homme au travail",
+      "de traiter les conséquences des risques plutôt que d'agir à leur source",
+      "de remplacer ce qui est dangereux par ce qui l'est moins"
+    ],
+    "reponse": 4
+  },
+  {
+    "question": "Les agents de l'inspection du travail ne sont pas compétents pour contrôler les conditions de travail :",
+    "choix": [
+      "des agents de la SNCF et de la RATP",
+      "des agents de la fonction publique territoriale (ex : agent de mairie)",
+      "des salariés de droit privé employés par des associations",
+      "des médecins salariés par des cliniques"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Des manquements du salarié à son obligation de sécurité",
+    "choix": [
+      "peuvent engager sa responsabiliteé pénale s'ils sont à l'origine de l'accident du travail d'un autre salarié",
+      "ne peuvent pas justifier de sanctions à son égard s'ils n'affectent que sa propre sécurité et non celles de ses collègues (ex : refus du salarié de porter des chaussures de sécurité)",
+      "ne peuvent pas engager sa responsabilité pénale sauf s'il dispose d'une délégation de pouvoir de son employeur",
+      "ne peuvent pas engager sa responsabilité civile en cas de dommage causé à un tiers"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "La commission du CSE en charge de la prévention des risques professionnels dans l'entreprise est",
+    "choix": [
+      "La commission sécurité condition de travail et oeuvres sociales (CSCTS)",
+      "La commission santé sécurité et conditions de travail (CISST)",
+      "La commission d'hygiène de sécurité et des conditions de travail interne (CHSCTI)",
+      "mise en place sur décision de l'inspecteur du travail sous certaines conditions",
+      "La commission liberté laïcité santé physique et mentale (C2LSPM)"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Quelle proposition est fausse ? L'inspecteur du travail...",
+    "choix": [
+      "dispose de la liberté des suites à donner à ses constats",
+      "peut dresser un procès-verbal en cas de constation d'une infration mais n'est pas obligé",
+      "a droit d'entrée de jour comme de nuit sans prévenir dès lors que des salariés sont occupés",
+      "a droit d'entrer de jour comme de nuit sans prévenir dans le domicile d'un auto-entrepreneur"
+    ],
+    "reponse": 4
+  },
+  {
+    "question": "[La Nation] « garantit à tous, notamment à l'enfant, à la mère et aux vieux travailleurs, la protection de la santé, la sécurité matérielle, le repos et les loisirs. » Cette allégation est portée",
+    "choix": [
+      "à l'article 16 de la convention 81 de l'OIT",
+      "a l'article 159 du traité de Maastricht",
+      "est une directive européenne",
+      "au 11 alinée du préambule de la Constitution du 27 octobre 1946"
+    ],
+    "reponse": 4
+  },
+  {
+    "question": "Le suivi individuel de l'état de santé des salariés",
+    "choix": [
+      "implique la réalisation systématique d'un électrocardiogramme",
+      "donne lieu à la création d'un dossier médical en santé au travail regroupant les informations relatives à l'état de santé du travailleur",
+      "est réalisé de la même manière pour tous les salariés d'une même entreprise",
+      "ne peut être réalisé que par un médecin du travail"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Concernant le droit à la formation des représentants du personnel au CSE :",
+    "choix": [
+      "les représentants du personnel au CSE ont droit à une formation à la sécurité quels que soient les effectifs de l'entreprise qui les emploie",
+      "les représentants du personnel au CSE peuvent bénéficier d'une formation à la sécurité chaque année",
+      "la durée de la formation à la sécurité dont bénéficient les représentants du personnel au CSE varie selon que l'entreprise qui les emploie exerce ou non une activité à risque",
+      "la durée de la formation à la sécurité dont bénéficient les représentants du personnel au CSE est de 10 jours"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": " Selon la jurisprudence actuelle l'obligation de sécurité pesant sur le salarié s'analyse comme :",
+    "choix": [
+      "une obligation de moyen",
+      "une obligation de moyen renforcée",
+      "une obligation de résultat",
+      "une obligation de résultat atténuée"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "L'arrêt temporaire de travaux notifié par l'inspecteur du travail",
+    "choix": [
+      "entraîne l'arrêt obligatoirement d'activité des salariés concernés sans que l'employeur ne puisse les affecter à d'autres tâches",
+      "entraîne le paiement par l'assurance chômage de la rémunération des salariés concernés pendant la durée de l'arrêt d'activité",
+      "oblige l'employeur à attende l'autorisation de reprise des travaux notifiée par l'inspection du travail après vérification des mesures correctives mise en place",
+      "peut être justifié par tout manquement de l'employeur aux règles de sécurité"
+    ],
+    "reponse": 3
+  },
+
+  {
+    "question": "L'obligation de sécurité pesant sur le salarié :",
+    "choix": [
+      "est la même pour tout salarié quelles que soient sa formation et son expérience",
+      "est la même pour tout salarié quelles que soient ses fonctions",
+      "implique que le salarié respecte les instructions et directives données par son employeur concernant",
+      "est de même nature que celle pesant sur l'employeur"
+    ],
+    "reponse": 3
+  },
+
+  {
+    "question": "L'obligation de sécurité pesant sur l'employeur : ",
+    "choix": [
+      "a toujours été considérée comme une obligation de moyen renforcée",
+      "est actuellement considérée comme une obligation de résultat renforcée",
+      "a toujours été considérée comme une obligation de résultat",
+      "est actuellement considéré comme un obligation de moyen renforcée"
+    ],
+    "reponse": 4
+  },
+  {
+    "question": "Le code du travail impose à l'employeur de fournir aux représentants du personnel au CSE",
+    "choix": [
+      "un intranet dédié au CSE afin de communiquer auprès des salariés de l'entreprise",
+      "des panneaux d'affichage pour informer les salariés sur ses missions",
+      "des véhicules de fonction pour se rendre aux différents locaux",
+      "un local aménagé dans lequel le CSE peut, quelle que soit la taille de l'entreprise, organiser des réunions"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "La constitution de l'OMS définit la santé comme : ",
+    "choix": [
+      "un état de complet bien-être physique, mental et social",
+      "un état de complet de paix intérieur",
+      "un état de complet bien-être physique et mental",
+      "un état de complet de paix et bien-être"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "L'acronyme CHSCT désigne",
+    "choix": [
+      "le Comité d’Hygiène, de Sécurité et des Conditions de Travail",
+      "le Comité d'Hygiène, de Santé et des Conditions de Travail",
+      "le Comité d'Hygiène, de Solution Commercial du Travail",
+      "le Comité d'Hygiène, de Santé et du Confort au Travail"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "L'acronyme CSSCT désigne",
+    "choix": [
+      "Commission Santé, Sécurité et Conditions de Travail",
+      "Communauté Santé, Sécurité et Conditions de Travail",
+      "Commission Santé, Sécurité et Confort au Travail",
+      "Communauté Santé, Sécurité et Confort au Travail"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "L'acronyme CSE désigne",
+    "choix": [
+      "le Comité Social et Économique",
+      "la Communauté Social et Économique",
+      "le Comité Santé et Économie",
+      "le Comité Social et Éxtravagant"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "La CSSCT",
+    "choix": [
+      "a été supprimé suite aux ordonnances Macron de 2017",
+      "a été créée suite aux ordonnances Macron de 2017"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "La CHSCT",
+    "choix": [
+      "a été supprimé suite aux ordonnances Macron de 2017",
+      "a été créée suite aux ordonnances Macron de 2017"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Substituer un produit corrosif par un produit inoffensif est un type de prévention",
+    "choix": ["primaire", "secondaire", "tertiaire"],
+    "reponse": 1
+  },
+  {
+    "question": "Mettre à la disposition des salariés des protections individuelles adaptés à la manipulation de produits corrosifs est un type de prévention",
+    "choix": ["primaire", "secondaire", "tertiaire"],
+    "reponse": 2
+  },
+  {
+    "question": "Limiter les conséquences d'un accident ayant eu lieu est un type de prévention",
+    "choix": ["primaire", "secondaire", "tertiaire"],
+    "reponse": 3
+  },
+  {
+    "question": "Les grandes entreprises sont obligées par la loi de discuter des conditions de vie au travail des salariés",
+    "choix": ["Vrai", "Faux"],
+    "reponse": 1
+  },
+  {
+    "question": "L’intérêt pour la prévention des risques professionnel est apparu suite à la révolution industrielle",
+    "choix": ["Vrai", "Faux"],
+    "reponse": 2
+  },
+  {
+    "question": "La médecine du travail est obligatoire depuis",
+    "choix": [
+      "1893 (devoir général de prévention à la charge de l’employeur)",
+      "1913 (suite aux nouvelles normes fondamentales d'hygiène, de sécurité et de prévention des incendies)",
+      "1919 (avec le régime d'indemnisation des accidents du travail)",
+      "1942 (sous le gouvernement de Vichy)"
+    ],
+    "reponse": 4
+  },
+  {
+    "question": "L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. La mesure NON mentionnée dans le code du travail : ",
+    "choix": [
+      "Des actions de prévention des risques professionnels",
+      "Des actions d'information et de formation ",
+      "La mise en place d'une organisation et de moyens adaptés.",
+      "La mise en place d'un CSE"
+    ],
+    "reponse": 4
+  },
+  {
+    "question": "N'est pas un risque professionnel : ",
+    "choix": [
+      "Manutentions manuelles de charges",
+      "Températures extrêmes",
+      "Manutentions manuelles de charges",
+      "Transpiration"
+    ],
+    "reponse": 4
+  },
+  {
+    "question": "Le Document Unique d’Evaluation des Risques Professionnels (DUEERP)...",
+    "choix": [
+      "est obligatoire dans toutes les entreprises dès l'embauche du 1er salarié. ",
+      "est le résultat de l'évaluation des risques pour la santé et la sécurité auxquels peuvent être exposés les salariés.",
+      "est un document qui recense tous les salariès ayant été victime d'un danger durant l'exercice de leur métier"
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "La jurisprudence distingue classiquement différents types d’obligation pour un débiteur à son créancier, laquelle n'en est pas une ?",
+    "choix": [
+      "L'obligation de moyen",
+      "L'obligation de résultat",
+      "L'obligation de moyen renforcé",
+      "L'obligation de résultat atténuée",
+      "L'obligation de Teffaine (16 juin 1896)"
+    ],
+    "reponse": 5
+  },
+  {
+    "question": "Toutes les professions médicales sont tenues à une obligation de...",
+    "choix": ["moyens", "résultat", "moyens renforcés", "guérir"],
+    "reponse": 1
+  },
+  {
+    "question": "Un concessionnaire vous vend un véhicule, il est tenue à une obligation de...",
+    "choix": ["résultat", "moyens", "moyens renforcés", "faire un prix"],
+    "reponse": 1
+  },
+  {
+    "question": "Quelle proposition ci-dessous est fausse ?",
+    "choix": [
+      "Une délégation de pouvoir est un acte juridique par lequel le délégant (ici, le chef d’entreprise) transfert une partie de ses pouvoirs et de ses responsabilités à un délégataire (en principe, l’un de ses salariés)",
+      "Une délégation de signature autorise le délégataire à signer des documents",
+      "Une délégation de pouvoir responsabilise pénalement le délégataire en matière d'hygiène et de sécurité dans son périmètre d'action",
+      "Une délégation de pouvoir est la conséquence direct d'une délégation de signature"
+    ],
+    "reponse": 4
+  },
+  {
+    "question": "Aucun texte légal ne réglemente la délégation de pouvoir.",
+    "choix": ["Vrai", "Faux"],
+    "reponse": 1
+  },
+  {
+    "question": "L'existence d'une délégation de pouvoir s'établit par un document écrit et signé par les parties",
+    "choix": ["Vrai", "Faux"],
+    "reponse": 2
+  },
+  {
+    "question": "Un délégant peut transférer l’ensemble de ses pouvoirs à un délégataire",
+    "choix": ["Vrai", "Faux"],
+    "reponse": 2
+  },
+  {
+    "question": "Quelle proposition ci-dessous est fausse ? Le délégataire doit...",
+    "choix": [
+      "disposer des moyens nécessaires pour exercer les tâches qui lui ont été déléguées.",
+      "justifier d’une maîtrise technique au regard des travaux exécutés sous sa responsabilité",
+      "justifier d’une maîtrise minimale de la réglementation relative à l'hygiène et à la sécurité",
+      "être en capacité de faire respecter les règles de sécurité par les salariés placés sous sa responsabilité",
+      "avoir le pouvoir de licencier voire de sanctionner les salariés sous sa responsabilités"
+    ],
+    "reponse": 5
+  }
+]
