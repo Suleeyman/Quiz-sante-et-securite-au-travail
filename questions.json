@@ -205,7 +205,7 @@
     "choix": [
       "entraîne l'arrêt obligatoirement d'activité des salariés concernés sans que l'employeur ne puisse les affecter à d'autres tâches",
       "entraîne le paiement par l'assurance chômage de la rémunération des salariés concernés pendant la durée de l'arrêt d'activité",
-      "oblige l'employeur à attende l'autorisation de reprise des travaux notifiée par l'inspection du travail après vérification des mesures correctives mise en place",
+      "oblige l'employeur à attendre l'autorisation de reprise des travaux notifiée par l'inspection du travail après vérification des mesures correctives mise en place",
       "peut être justifié par tout manquement de l'employeur aux règles de sécurité"
     ],
     "reponse": 3
@@ -233,7 +233,7 @@
     "reponse": 4
   },
   {
-    "question": "Le code du travail impose à l'employeur de fournir aux représentants du personnel au CSE",
+    "question": "Le code du travail impose à l'employeur de fournir aux représentants du personnel du CSE",
     "choix": [
       "un intranet dédié au CSE afin de communiquer auprès des salariés de l'entreprise",
       "des panneaux d'affichage pour informer les salariés sur ses missions",
