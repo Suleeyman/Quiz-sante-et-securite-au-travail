@@ -418,5 +418,165 @@
       "avoir le pouvoir de licencier voire de sanctionner les salariés sous sa responsabilités"
     ],
     "reponse": 5
+  },
+  {
+    "question": "La formation à la sécurité dont doit bénéficier le salarié...",
+    "choix": [
+      "doit être 'renforcée' pour les salariés en CDD et intérimaires affectés sur des postes à 'risques particuliers'.",
+      "est dispensée par l'inspection du travail.",
+      "est obligatoirement identique pour tous les salariés d'une même entreprise.",
+      "est payée par la sécurité sociale."
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Duquel de ces moyens d'action ne disposent pas les agents de prévention du CARSAT ?",
+    "choix": [
+      "édicter des recommandations et des notes techniques à destination des employeurs.",
+      "accorder des minorations de cotisation aux entreprises prenant des mesures de prévention.",
+      "prononcer des injonctions et imposer des majorations de cotisation aux entreprises manquant à leurs obligations en matière de prévention des risques professionnels.",
+      "relever par procès-verbal les infractions commises par les employeurs en matière d'hygiène et de sécurité."
+    ],
+    "reponse": 4
+  },
+  {
+    "question": "Dans le cadre d’une obligation de résultat, le débiteur s’engage :",
+    "choix": [
+      "à atteindre le résultat prévu au contrat.",
+      "à former ses salariés au risque professionnel.",
+      "à mettre en œuvre les moyens nécessaires à l’atteinte du résultat espéré.",
+      "à atteindre un résultat dans la moyenne des résultats obtenus."
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Lequel de ces médecins ne s'est pas intéressé à la prévention des risques professionnels ?",
+    "choix": [
+      "Percivall POTT",
+      "Ferdinand BARDAMU",
+      "Louis-René VILLERME",
+      "Bernardino RAMAZZINI"
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "S’agissant de la procédure d’alerte des représentants du personnel au CSE, laquelle de ces propositions est fausse ?",
+    "choix": [
+      "En cas de divergence entre l'employeur et le représentant du personnel ayant exercé le droit d'alerte sur la réalité du danger ou la façon de le faire cesser, l'employeur doit réunir le CSE dans les 24 heures",
+      "l’employeur doit immédiatement procéder à une enquête avec l'auteur du droit d'alerte",
+      "le représentant du personnel qui exerce le droit d'alerte est tenu d'indiquer sur un registre spécial la nature du danger, sa cause ainsi que l'identité des salariés exposés",
+      "le représentant du personnel ne peut exercer le droit d’alerte que pour les dangers graves et imminents auxquels il est personnellement exposé"
+    ],
+    "reponse": 4
+  },
+  {
+    "question": "Dans les entreprises d’au moins cinquante salariés, combien de réunions du CSE (ou du CSSCT s’il existe) doivent, au minimum, traiter des questions de santé, de sécurité et des conditions de travail par an ?",
+    "choix": [
+      "Une réunion par an.",
+      "Deux réunions par an.",
+      "Six réunions par an.",
+      "Quatre réunions par an."
+    ],
+    "reponse": 4
+  },
+  {
+    "question": "Quel type de déclaration ne s’impose pas aux employeurs à l’égard de l’inspection du travail ?",
+    "choix": [
+      "Obligation de déclaration préalable à l'occupation de personnel.",
+      "Obligation de déclaration des chantiers et lieux temporaires d’activité.",
+      "Obligation d’information d’accident du travail mortel.",
+      "Obligation d’information de recrutement de salarié temporaire."
+    ],
+    "reponse": 4
+  },
+  {
+    "question": "Les agents de prévention des CARSAT...",
+    "choix": [
+      "peuvent participer à toutes les réunions du CSE.",
+      "peuvent pronocer des amendes administratives en cas de manquements de l'employeur aux règles de sécurité.",
+      "peuvent majorer les cotisations « accident du travail / maladie professionnelle » d'une entreprise qui n'a pas mis en oeuvre les mesures de préventions imposées par voie d'injonction.",
+      "sont en charge du suivi médical des salariés."
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Quelle condition est nécessaire pour qu’un salarié puisse exercer son droit de retrait ?",
+    "choix": [
+      "Il doit en informer préalablement son supérieur hiérarchique.",
+      "Il doit en indiquer la cause sur un registre spécial.",
+      "Il doit obtenir l’autorisation de l’inspecteur du travail.",
+      "Il doit, de bonne foi, estimer être exposé à un danger grave et imminent."
+    ],
+    "reponse": 4
+  },
+  {
+    "question": "Selon la jurisprudence actuelle, l’obligation de sécurité pesant sur l’employeur s’analyse comme :",
+    "choix": [
+      "une obligation de moyen renforcée.",
+      "une obligation de résultat renforcée.",
+      "une obligation de moyen.",
+      "une obligation de résultat."
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "La formation à la sécurité n’a pas pour but de former le salarié...",
+    "choix": [
+      "aux conditions de circulation dans l’entreprise.",
+      "à la conduite à tenir en cas d’accident ou de sinistre.",
+      "aux conditions d’exécution de son travail.",
+      "au CACES (Certificat d’Aptitude à la Conduite en Sécurité)."
+    ],
+    "reponse": 4
+  },
+  {
+    "question": "Les agents de l’inspection du travail ne sont pas compétents pour contrôler les conditions de travail :",
+    "choix": [
+      "des agents municipaux.",
+      "des salariés employés par des cliniques.",
+      "des salariés employés par des entreprises privées.",
+      "des salariés employés par des associations."
+    ],
+    "reponse": 1
+  },
+  {
+    "question": "Duquel de ces moyens de contrôle ne disposent pas les agents de l’inspection du travail ?",
+    "choix": [
+      "Le droit d’entrer dans les locaux où sont occupés des salariés sans autorisation préalable du propriétaire (sauf locaux d’habitation).",
+      "Le droit d’entendre les salariés sans la présence de leur employeur.",
+      "Le droit de mettre en garde à vue un employeur suspecté d’infraction au code du travail.",
+      "Le droit d’assister aux réunions du CSE portant sur des questions d’hygiène, de santé ou de conditions de travail."
+    ],
+    "reponse": 3
+  },
+  {
+    "question": "Selon l’Organisation Mondiale de la Santé :",
+    "choix": [
+      "Le travail, c’est la santé.",
+      "La santé se définit comme l’absence de maladie ou d’infirmité.",
+      "La santé est un état précaire qui n’augure rien de bon.",
+      "La santé est un état de complet bien-être physique, mental et social."
+    ],
+    "reponse": 4
+  },
+  {
+    "question": "Dans le domaine de la sécurité au travail, la prévention primaire vise à :",
+    "choix": [
+      "Favoriser le maintien à l’emploi de la victime d’un accident de travail.",
+      "Agir sur les sources des risques professionnels afin de les supprimer ou, à défaut, de les réduire.",
+      "Éviter que le risque n’ait d’incidence sur la santé du salarié.",
+      "Limiter les conséquences de l’accident du travail."
+    ],
+    "reponse": 2
+  },
+  {
+    "question": "Le Comité Social et Économique doit être mis en place dans les entreprises occupant...",
+    "choix": [
+      "Au moins 300 salariés.",
+      "Au moins 1 salarié.",
+      "Au moins 50 salariés.",
+      "Au moins 11 salariés."
+    ],
+    "reponse": 4
   }
 ]
